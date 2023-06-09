@@ -1,2 +1,2 @@
 # My-portfolio
-This us my personal portfolio Indicating my own information
+This is my personal portfolio Indicating my own information
