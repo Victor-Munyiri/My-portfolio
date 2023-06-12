@@ -8,9 +8,7 @@ This page has no known bugs
 
 #### Technologies Used
 * HTML
-* CSS 
-* Javascript
-* Jquery
+* BOOTSTRAP
 
 #### Author
 _Victor Munyiri_
